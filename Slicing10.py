@@ -1,4 +1,4 @@
-def main(s,n,k):
+def main(s, n, k):
     """
     The s string variable is given. return from index n to index k.
     Args:
@@ -8,4 +8,4 @@ def main(s,n,k):
     Returns:
         str: answer
     """
-    return
+    return s[n:k]
